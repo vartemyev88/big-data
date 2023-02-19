@@ -1,6 +1,6 @@
 # ℹ Appartments Sales Research
 
-Using data from Yandex.Real Estate, determine the market value of real estate properties and typical parameters of apartments.
+Using data from Yandex.Realty, determine the market value of real estate properties and typical parameters of apartments.
 Data provided by Yandex.Practicum.
 
 # 🛠 Skills & Tools
