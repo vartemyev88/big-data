@@ -8,7 +8,7 @@ Data provided by Yandex.Practicum.
 `Exploratory Data Analysis`
 `Data Preprocessing`
 `Fraud Analysis`
-`matplotlib` `pandas` `pymystem3`
+`matplotlib` `pandas`
 
 # 💻 Data Description:
 
