@@ -1,3 +1,5 @@
+# [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/data-analysis/blob/main/projects/practicum-borrowers_reliability/DS-practicum-borrowers_reliability.ipynb)
+
 # ℹ Reliability of Borrowers
 
 The study aims to determine the impact of a client's family status and number of children on timely loan repayment based on statistical data on customer solvency.
