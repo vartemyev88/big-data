@@ -1,3 +1,5 @@
+# [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/data-analysis/blob/main/projects/practicum-determining_promising_tariff/determining_promising_tariff.ipynb)
+
 # ℹ Determining a Promising Tariff for a Telecom Company
 
 Based on data from a mobile operator's customers, analyze customer behavior and search for the optimal tariff.
