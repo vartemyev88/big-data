@@ -1,3 +1,5 @@
+# [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/data-analysis/blob/main/projects/practirum-games_research/games_research.ipynb)
+
 # ℹ The study of Patterns That Determine The Success of Games
 
 Using historical data on sales of computer games, user and expert ratings, genres and platforms, to identify patterns that determine the success of the game.
