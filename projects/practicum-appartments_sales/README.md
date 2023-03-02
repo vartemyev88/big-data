@@ -1,18 +1,18 @@
-# [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/data-analysis/blob/main/projects/practicum-appartments_sales/DS-practicum-appartments_sales.ipynb)
+## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/data-analysis/blob/main/projects/practicum-appartments_sales/DS-practicum-appartments_sales.ipynb)
 
-# ℹ Appartments Sales Research
+## ℹ Appartments Sales Research
 
 Using data from Yandex.Realty, determine the market value of real estate properties and typical parameters of apartments.
 Data provided by Yandex.Practicum.
 
-# 🛠 Skills & Tools
+## 🛠 Skills & Tools
 
 `Exploratory Data Analysis`
 `Data Preprocessing`
 `Fraud Analysis`
 `matplotlib` `pandas`
 
-# 💻 Data Description:
+## 💻 Data Description:
 
 -   `airports_nearest`: distance to the nearest airport in meters (m)
 -   `balcony`: number of balconies

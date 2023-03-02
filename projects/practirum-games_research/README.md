@@ -1,11 +1,11 @@
-# [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/data-analysis/blob/main/projects/practirum-games_research/games_research.ipynb)
+## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/data-analysis/blob/main/projects/practirum-games_research/games_research.ipynb)
 
-# ℹ The study of Patterns That Determine The Success of Games
+## ℹ The study of Patterns That Determine The Success of Games
 
 Using historical data on sales of computer games, user and expert ratings, genres and platforms, to identify patterns that determine the success of the game.
 Data provided by Yandex.Practicum.
 
-# 🛠 Skills & Tools
+## 🛠 Skills & Tools
 
 `Data Visualization`
 `Hypothesis Testing`
@@ -14,7 +14,7 @@ Data provided by Yandex.Practicum.
 `Data Preprocessing`
 `matplotlib` `numpy` `pandas` `scipy` `seaborn`
 
-# 💻 Data Description:
+## 💻 Data Description:
 
 -	`Name`: name of the game
 -	`Platform`: platform

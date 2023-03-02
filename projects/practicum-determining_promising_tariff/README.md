@@ -1,17 +1,17 @@
-# [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/data-analysis/blob/main/projects/practicum-determining_promising_tariff/determining_promising_tariff.ipynb)
+## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/data-analysis/blob/main/projects/practicum-determining_promising_tariff/determining_promising_tariff.ipynb)
 
-# ℹ Determining a Promising Tariff for a Telecom Company
+## ℹ Determining a Promising Tariff for a Telecom Company
 
 Based on data from a mobile operator's customers, analyze customer behavior and search for the optimal tariff.
 Data provided by Yandex.Practicum.
 
-# 🛠 Skills & Tools
+## 🛠 Skills & Tools
 
 `Statistical Data Analysis`
 `Data Preprocessing`
 `matplotlib` `numpy` `pandas` `scipy` `seaborn`
 
-# 💻 Data Description:
+## 💻 Data Description:
 
 ** Table `users` (information about users): **
 -   `user_id`: unique user identifier
